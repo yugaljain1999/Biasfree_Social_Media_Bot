@@ -18,6 +18,8 @@ Run Discord bot-
 ```
 python discord_reply.py
 ```
+* Try out in colab
+https://colab.research.google.com/drive/1Y4KQmljT7yiezs5HZuIbsn1yhaOec86w?usp=sharing
 
 Sample Outputs-
 
